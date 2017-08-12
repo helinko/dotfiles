@@ -1,0 +1,11 @@
+! disable capslock and make it another ctrl
+keycode 66 = Control_R
+clear Lock
+add Control = Control_R
+
+! make "1/2" another super for xmonad purposes
+keycode 49 = Super_R
+add mod4 = Super_R
+
+
+
